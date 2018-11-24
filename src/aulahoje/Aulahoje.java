@@ -16,7 +16,7 @@ public class Aulahoje {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Aula hoje");
+        System.out.println("Complicando");
     }
     
 }
